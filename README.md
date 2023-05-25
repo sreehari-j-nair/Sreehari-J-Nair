@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/sreehari-j-nair-174077240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreehari j nair" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sreeharijnair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sreehari j nair" height="30" width="40" /></a>
 <a href="https://instagram.com/sreehari_j_nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sreehari_j_nair" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sreehari j nair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreehari j nair" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTYn63KNTvIeRMljO3xMa0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sreehari j nair" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sreeharijnair08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sreeharijnair08" height="30" width="40" /></a>
 </p>
 
