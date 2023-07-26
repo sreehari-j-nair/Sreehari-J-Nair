@@ -5,7 +5,7 @@
  <li>🚀 Programming, Development, Technology, Business, Money, Trading</li>
  <li>⚡ Automation, Web/Mobile Development, Machine Learning</li>
  <li>🔭 I’m currently working on <b>BULB (Blood Donation App)</b></li>
- <li>📫 How to reach me <b>sreeharijnair08@gmail.com</b></li>
+ <li>📫 Reach me <b>sreeharijnair08@gmail.com</b></li>
  <li>🌱 You'll find a collection of my personal projects, open-source contributions, and experiments on my GitHub.</li>
  <li>⭐️ Stay curious, stay passionate, and keep coding!</li>
  <li>⚡ Fun fact <b>This was Generated !!<b></li
